@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClCompile Include="Glue.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Flat.h" />
+    <ClInclude Include="Room.h" />
+    <ClInclude Include="WallpaperRoll.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
