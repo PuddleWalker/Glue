@@ -63,10 +63,10 @@ public:
 		switch (num)
 		{
 		case 5:
-			roof = info;
+			avail = info;
 			break;
 		case 6:
-			avail = info;
+			roof = info;
 			break;
 		}
 	}
